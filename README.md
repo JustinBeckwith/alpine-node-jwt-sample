@@ -6,3 +6,5 @@ This is a simple example of using the google-auth-library, inside of an alpine d
 4. Run `docker run -it app`
 
 Enjoy!
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JustinBeckwith/alpine-node-jwt-sample.svg)](https://greenkeeper.io/)
